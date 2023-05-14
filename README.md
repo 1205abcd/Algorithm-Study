@@ -1,10 +1,11 @@
 ## ✅ 참여 방법
 1. 이 저장소를 `fork` 한다.
-2. 생성된 원격 저장소에 `github ID`로 폴더를 생성한다.
-3. 생성된 폴더에 자신의 소스코드를 업로드 한다. (폴더명에 콜론":" 안됩니다!)
-4. 이때 `commit 규칙`을 지키도록한다!
-5. 원본 저장소로 `Pull Request`를 한다. ()
-6. 매주(월~토) 1문제 이상, 매주 **일요일 오후 9시 이전까지** 코드리뷰 후 각자 Merge 진행
+2. 각자 `github ID`로 폴더를 생성한다.
+3. 생성된 폴더에 자신의 소스코드를 업로드 한다. (`commit 규칙`을 준수한다)
+5. 원본 저장소로 `Pull Request`를 한다.
+6. 매주 **토요일 자정까지** 1문제 이상 제출한다.
+7. 매주 **일요일 오후 9시까지** 다른 사람이 제출한 코드의 리뷰를 마친다.
+8. 각자 Merge를 진행한다.
 
 <br />
 <br />
@@ -21,7 +22,7 @@
 - description: 문제 주소 (option)
 - 터미널에서 작성법: 
 ```
-git commit -m "[BOJ] Hello World / 브론즈5" -m "https://www.acmicpc.net/problem/2557"
+git commit -m "[PGS] Hello World / LV1" -m "https://school.programmers.co.kr/learn/courses/30/lessons/131128"
 ```
 - 플랫폼 작성법 통일: 
   * [BOJ] - 백준 
@@ -43,7 +44,7 @@ git commit -m "[BOJ] Hello World / 브론즈5" -m "https://www.acmicpc.net/probl
 <br />
 <br />
 
-## ✅ (option)코드리뷰 규칙
+## ✅ 코드리뷰 규칙
 - PR에서 코드리뷰를 한다.
 - 전체 코드 흐름을 파악한 뒤, 이 분이 어떻게 풀었을까 이해를 한 후 
 - 의견제시
