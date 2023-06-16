@@ -6,8 +6,6 @@ class Solution {
 		
 		boolean b = true;
 
-		int l = s.length();
-
 		for (int i = 0; i < s.length(); i++) {
 			if (s.charAt(i) == '(') {
 				st.add(String.valueOf(s.charAt(i)));
