@@ -14,10 +14,10 @@ class Solution {
 			} else {
 				if (st.empty()) {
 					b = false;
-                    break;
+                			break;
 				}else {  
 				    st.pop();
-                }
+               			}
 			}
 		}
 		if (!st.empty()) {
